@@ -15,6 +15,7 @@ public class DemoApplicationTests {
 
         System.out.println("小李");
         System.out.println("小李-branch");
+        System.out.println("小李-branch-second-submit");
     }
 
 }
