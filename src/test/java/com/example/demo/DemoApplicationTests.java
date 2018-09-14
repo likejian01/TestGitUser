@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,6 +12,8 @@ public class DemoApplicationTests {
 
     @Test
     public void contextLoads() {
+
+        System.out.println("小李");
     }
 
 }
